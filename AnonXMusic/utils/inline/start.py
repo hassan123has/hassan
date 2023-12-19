@@ -25,7 +25,7 @@ def private_panel(_):
         InlineKeyboardButton(
                 text= "القناه الدينيه", url=f"https://t.me/S1_I_I"), 
         InlineKeyboardButton(
-                text= "قناة التحديثات", url=f"https://t.me/BIACKB0T")
+                text= "قناة التحديثات", url=f"https://t.me/CH_KORAN")
         ],
         [
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
